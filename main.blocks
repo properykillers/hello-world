@@ -1,0 +1,31 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="j1oVLMOYZ[u}++WDZP7E" x="171" y="-81"><statement name="HANDLER"><block type="device_play_note" id="p#HaP)C%jpP;b(+n}[%X"><value name="note"><shadow type="device_note" id="6[sR3/0T8`k3MemNvg*S"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="_nFC#G;=^yX(X^3AmZHt"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_play_note" id="cv01CqEFAOCioDhrKTq["><value name="note"><shadow type="device_note" id="+Z*;p:eyszHMW-ZR`:4~"><field name="name">330</field></shadow></value><value name="duration"><shadow type="device_beat" id="X=LD!:gH5NlT-[mvRsUm"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_play_note" id="=^wmQw_H`NBY{3yF{(f0"><value name="note"><shadow type="device_note" id="f,Ypao]7(Z[.3_{)%J3?"><field name="name">330</field></shadow></value><value name="duration"><shadow type="device_beat" id="/fw%@)`,wHR1AUi=2-_!"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_play_note" id="y/SHIv}+7oChf+ikIUIp"><value name="note"><shadow type="device_note" id="U=uBzw1=yxm*fN{t!26*"><field name="name">294</field></shadow></value><value name="duration"><shadow type="device_beat" id="wIDNf,,IOm1z7ZR:{j.,"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_play_note" id="HTPZK{()gm2LWw-jR+I#"><value name="note"><shadow type="device_note" id="~Y9[__sGwRp4|V-YbtN0"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="o^ZzT76@+;?9bk-@;/!0"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_play_note" id="/ta;P=$pK^Az*XTAR]3e"><value name="note"><shadow type="device_note" id="rU[,~.#]Xoof+5Qi#HK|"><field name="name">294</field></shadow></value><value name="duration"><shadow type="device_beat" id=".cO[qUM7R$@28r7[4Bgi"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_play_note" id="B]INx#1]8bq0f^([xH?7"><value name="note"><shadow type="device_note" id="j_@PYix.3)(dtP#~#B/u"><field name="name">262</field></shadow></value><value name="duration"><shadow type="device_beat" id="ZYjB#[v%[?sZRm6jC(U_"><field name="fraction">BeatFraction.Whole</field></shadow></value><next><block type="device_show_leds" id="AeW1?dY!a-m5WheZZ2@f"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . # # # . 
+        . # . # . 
+        . # . # .
+        `</field><next><block type="device_show_leds" id="7-Oy.qa[w0:@8HKP!mH("><field name="LEDS">`
+        . # # # . 
+        . # . . . 
+        . # # # . 
+        . # . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="iZ2ZHp`DM^,2x-^hr}Kr"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id=";`S}!R]ZT1+RDJHTu{YA"><field name="LEDS">`
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # . . . 
+        . # # # .
+        `</field><next><block type="device_show_leds" id="PHwUBnu+S$S|~@`{6+GL"><field name="LEDS">`
+        . # # # . 
+        . # . # . 
+        . # . # . 
+        . # . # . 
+        . # # # .
+        `</field></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="p7Gv7zc2wD|0;!)=;t{L" x="0" y="0"/></xml>
